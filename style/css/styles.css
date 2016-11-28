@@ -62,7 +62,9 @@ header a{
   margin-top: 160px;
 }
 
-
+.funciona{
+  padding: 20px;
+}
 .funciona h1{
     color: #b3b3b3;
     font-family: 'Francois One', sans-serif;
@@ -81,7 +83,7 @@ header a{
 }
 .info h1{
   color: #b3b3b3;
-  padding: 25px 20px 40px 0;
+  padding: 25px 30px 40px 0;
   float: right;
 }
 .info ul{
@@ -110,16 +112,19 @@ header a{
     display: block;
     padding: 20px;
 }
+
 .overtext .texta{
   padding: 25px;
   text-align: center;
   font-family: 'Francois One', sans-serif;
   font-weight: 700;
-
 }
 
 
-
+.overtext a{
+    text-decoration: none;
+    color: #000;
+}
 
 /*Footer*/
 footer {
